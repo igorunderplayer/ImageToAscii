@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ImageToAscii": {
+      "commandName": "Project",
+      "commandLineArgs": "./test.jpg",
+      "workingDirectory": "."
+    }
+  }
+}
